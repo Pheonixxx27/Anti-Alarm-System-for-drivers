@@ -1,1 +1,2 @@
 # Anti-Alarm-System-for-drivers
+Create a working model of an anti-sleep alarm which detects sleep in the driver accurately and warns him of potential danger. Our project focuses on the eye movement of the driver. If the eye of the driver remains shut for a time greater than a certain threshold period the alarm will start ringing. If the driver still does not wake, the brakes would be applied on its own thus gradually decelerating the car.
